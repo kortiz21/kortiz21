@@ -23,7 +23,7 @@ When I'm not working on tech projects, I enjoy playing and creating video games.
 
 # Skills
 Programming languages:
-C++, C, Java, Python, R, x86-64 Assembly, Bash, HTML, CSS, JavaScript
+C++, C, Java, Python, R, x86-64 Assembly, Bash, HTML, CSS, JavaScript, php
 
 Tools:
 Visual Studio Code, RStudio, Git, GitHub, JIRA, Confluence, MS Office 365, Adobe Acrobat, Unreal Engine 4.26, ServiceNow, CyberArk, Active Directory Users and Computers, Remote Desktop Protocol, Wireshark
