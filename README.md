@@ -22,15 +22,15 @@ I specialize in C++ programming, and I'm always looking for new and innovative w
 When I'm not working on tech projects, I enjoy playing and creating video games. I find that these activities help me stay creative and keep my mind sharp, which is essential in the fast-paced world of tech.
 
 # Skills
-Programming languages:
+**Programming languages:**
 C++, C, Java, Python, R, x86-64 Assembly, Bash, HTML, CSS, JavaScript, php
 
-Tools:
+**Tools:**
 Visual Studio Code, RStudio, Git, GitHub, JIRA, Confluence, MS Office 365, Adobe Acrobat, Unreal Engine 4.26, ServiceNow, CyberArk, Active Directory Users and Computers, Remote Desktop Protocol, Wireshark
 
-DBMS:
+**DBMS:**
 MySQL Workbench 8.0 CE
 
-OS/Platform:
+**OS/Platform:**
 MS Windows XP/7/8/8.1/10
 Linux (Ubuntu)
