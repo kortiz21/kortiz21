@@ -26,7 +26,7 @@ When I'm not working on tech projects, I enjoy playing and creating video games.
 C++, C, Java, Python, R, x86-64 Assembly, Bash, HTML, CSS, JavaScript, PHP, SQL
 
 **Tools:**
-Visual Studio Code, RStudio, Git, GitHub, JIRA, Confluence, MS Office 365, Adobe Acrobat, Unreal Engine 4.26, ServiceNow, CyberArk, Active Directory Users and Computers, Remote Desktop Protocol, Wireshark
+Visual Studio Code, RStudio, Git, GitHub, JIRA, Confluence, Unreal Engine 4.26, ServiceNow, CyberArk, ADUC, RDP, Wireshark
 
 **Frameworks:**
 MySQL Workbench 8.0 CE, Pygame, Bootstrap 4
