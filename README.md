@@ -23,13 +23,13 @@ When I'm not working on tech projects, I enjoy playing and creating video games.
 
 # Skills
 **Programming languages:**
-C++, C, Java, Python, R, x86-64 Assembly, Bash, HTML, CSS, JavaScript, php
+C++, C, Java, Python, R, x86-64 Assembly, Bash, HTML, CSS, JavaScript, PHP, SQL
 
 **Tools:**
 Visual Studio Code, RStudio, Git, GitHub, JIRA, Confluence, MS Office 365, Adobe Acrobat, Unreal Engine 4.26, ServiceNow, CyberArk, Active Directory Users and Computers, Remote Desktop Protocol, Wireshark
 
-**DBMS:**
-MySQL Workbench 8.0 CE
+**Frameworks:**
+MySQL Workbench 8.0 CE, Pygame, Bootstrap 4
 
 **OS/Platform:**
 MS Windows XP/7/8/8.1/10
