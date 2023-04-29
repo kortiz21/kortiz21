@@ -1,7 +1,4 @@
-# Hello, my name is Kevin Eduardo Ortiz👋
-
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
+# Hello, my name is Kevin Eduardo Ortiz👋       
 
 - 🌍 I'm based in Los Angeles, California
 - 🚀 I’m currently working on my portfolio
@@ -19,9 +16,7 @@ I specialize in C++ programming, and I'm always looking for new and innovative w
 When I'm not working on tech projects, I enjoy playing and creating video games. I find that these activities help me stay creative and keep my mind sharp, which is essential in the fast-paced world of tech.
 
 # Skills
-## Programming languages:
-<i class="devicon-cplusplus-plain"></i>
-          
+## Programming languages:    
 C++, C, Java, Python, R, x86-64 Assembly, Bash, HTML, CSS, JavaScript, PHP, SQL
 
 ## Tools:
