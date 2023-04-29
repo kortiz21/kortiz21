@@ -1,8 +1,8 @@
 # Hello, my name is Kevin Eduardo Ortiz👋
 
-<!--
-**kortiz21/kortiz21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+
 - 🌍 I'm based in Los Angeles, California
 - 🚀 I’m currently working on my portfolio
 - 🧠 I’m currently learning JavaScript
