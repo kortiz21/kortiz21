@@ -2,12 +2,11 @@
 
 <!--
 **kortiz21/kortiz21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 -->
 - 🌍 I'm based in Los Angeles, California
 - 🚀 I’m currently working on my portfolio
 - 🧠 I’m currently learning JavaScript
+- I'm currently looking for entry level positions for software engineer and/or full stack developer
 - 🤝 I’m looking to collaborate on game development projects
 - ✉️ How to reach me: kevinortiz95@outlook.com
 - ⚡ Fun fact: I love playing competitive Overwatch, currently ranked Diamond 2 in open queue!
@@ -20,15 +19,15 @@ I specialize in C++ programming, and I'm always looking for new and innovative w
 When I'm not working on tech projects, I enjoy playing and creating video games. I find that these activities help me stay creative and keep my mind sharp, which is essential in the fast-paced world of tech.
 
 # Skills
-**Programming languages:**
+## Programming languages:
 C++, C, Java, Python, R, x86-64 Assembly, Bash, HTML, CSS, JavaScript, PHP, SQL
 
-**Tools:**
+## Tools:
 Visual Studio Code, RStudio, Git, GitHub, JIRA, Confluence, Unreal Engine 4.26, ServiceNow, CyberArk, ADUC, RDP, Wireshark
 
-**Frameworks:**
+## Frameworks:
 MySQL Workbench 8.0 CE, Pygame, Bootstrap 4
 
-**OS/Platform:**
+## OS/Platform:
 MS Windows XP/7/8/8.1/10
 Linux (Ubuntu)
