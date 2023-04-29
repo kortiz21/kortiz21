@@ -23,8 +23,7 @@ C++, C, Python, R, Java, x86-64 Assembly, HTML, CSS, JS, Bash, PHP
 Visual Studio Code, RStudio, Git, GitHub, JIRA, Confluence, Unreal Engine 4.26
 
 ## Frameworks:
-MYSQL,Pygame, Bootstrap 4
+MYSQL, Pygame, Bootstrap 4
 
 ## OS/Platform:
-MS Windows XP/7/8/8.1/10
-Linux (Ubuntu)
+MS Windows XP/7/8/8.1/10, Linux (Ubuntu)
