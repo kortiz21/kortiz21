@@ -16,7 +16,10 @@ I specialize in C++ programming, and I'm always looking for new and innovative w
 When I'm not working on tech projects, I enjoy playing and creating video games. I find that these activities help me stay creative and keep my mind sharp, which is essential in the fast-paced world of tech.
 
 # Skills
-## Programming languages:    
+## Programming languages:
+![image](https://user-images.githubusercontent.com/105018036/235280495-5566940c-56eb-41d1-8681-217819d24224.png)
+![image](https://user-images.githubusercontent.com/105018036/235280487-a895643b-aa3f-42b9-a2b9-0eb9d1cfedb7.png)
+
 C++, C, Java, Python, R, x86-64 Assembly, Bash, HTML, CSS, JavaScript, PHP, SQL
 
 ## Tools:
