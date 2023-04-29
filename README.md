@@ -20,6 +20,8 @@ When I'm not working on tech projects, I enjoy playing and creating video games.
 
 # Skills
 ## Programming languages:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+
 C++, C, Java, Python, R, x86-64 Assembly, Bash, HTML, CSS, JavaScript, PHP, SQL
 
 ## Tools:
