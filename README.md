@@ -2,7 +2,7 @@
 
 - 🌍 I'm based in Los Angeles, California
 - 🖥️ I’m currently working on my portfolio, implementing a mobile version
-- 🧠 I’m currently learning JavaScript
+- 🧠 I’m currently learning JavaScript, Unity and C#
 - 🚀 I'm currently looking for entry level positions for software engineer and/or full stack developer
 - 🤝 I’m looking to collaborate on game development projects
 - ✉️ How to reach me: kevinortiz95@outlook.com
