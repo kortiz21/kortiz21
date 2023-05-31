@@ -1,7 +1,7 @@
 # Hello, my name is Kevin Eduardo Ortiz👋       
 
 - 🌍 I'm based in Los Angeles, California
-- 🖥️ I’m currently working on my portfolio, implementing a mobile version
+- 🖥️ I’m currently working on a 2D platformer game using Unity 2D and C# scripts
 - 🧠 I’m currently learning JavaScript, Unity 2D and C#
 - 🚀 I'm currently looking for entry level positions for software engineer, full stack developer and game developer
 - 🤝 I’m looking to collaborate on game development projects
